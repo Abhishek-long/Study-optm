@@ -1,0 +1,5 @@
+{
+  "name": "AI Study Planner",
+  "description": "An intelligent study scheduler using advanced DSA (Merge Sort, MinHeap, Greedy, DP) to optimize your exam preparation and revision cycles.",
+  "requestFramePermissions": []
+}
